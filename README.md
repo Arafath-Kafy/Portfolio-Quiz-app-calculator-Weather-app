@@ -1,4 +1,4 @@
-# labfinal
+# Portfolio + Quiz app + Weather app + Calculator
 
 A new Flutter project.
 
